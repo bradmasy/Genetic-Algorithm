@@ -1,7 +1,9 @@
-Names:     Ravinder Shokar    Brad Masciotra
-Student#:  A01184672          A01247718
+Name: Bradley Masciotra
 
-100% Complete
+Genetic Algorithm
+
+- this algorithm is designed to mimic natural selection and provide a solution to the common travelling salesman problem.
+
 
 Notes:
 - notes on the dynamic memory use in function "reproduction":
@@ -15,6 +17,8 @@ of pointers that would not be mistaken or duplicated in any way. All the dynamic
 is taken care of elsewhere in the program(we do not delete in reproduction as the data is needed in the tour etc.).
 I hope this paragraph clarifies our approach to the usage, and we did as a group to overcome a difficult circumstance.
 
+
+- All memory issues have been solved at this point.
 
 -descriptions
 
